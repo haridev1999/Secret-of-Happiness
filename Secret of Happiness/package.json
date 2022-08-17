@@ -1,0 +1,12 @@
+{
+  "name": "secret-of-happiness",
+  "version": "1.0.0",
+  "description": "The seven f's for Happiness",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Haridev",
+  "license": "ISC"
+}
